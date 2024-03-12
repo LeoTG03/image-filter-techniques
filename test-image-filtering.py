@@ -25,7 +25,7 @@ def run_pipeline(): #Funcion principal
 
     cvlib.close_window()
 
-    print('Program finished! \n')
+    print('Program finished! \n') #Finalizar el programa
 
 if __name__ == '__main__': #ejecutar la funcion principal
     run_pipeline() 
